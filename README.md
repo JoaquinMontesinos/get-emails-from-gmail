@@ -1,1 +1,2 @@
-# get-emails-from-gmail
+# Gmail feed
+Get all emails from gmail
